@@ -1,6 +1,6 @@
 # Delloite-data-analysis-project
 
-✅ Task 1: Telemetry Data Breakdown Analysis – Daikibo Industrials
+✅ # Task 1: Telemetry Data Breakdown Analysis – Daikibo Industrials
 Overview:
 Analyzed unified telemetry data collected over a month (May 2021) from four Daikibo manufacturing factories located in Tokyo, Osaka, Berlin, and Shenzhen. Each site operated 9 types of machines sending data every 10 minutes.
 
@@ -31,7 +31,9 @@ Enabled Daikibo to localize high-risk operations and prioritize maintenance for 
 
 
 
-✅ Task 2: Gender Pay Equality Assessment – Daikibo Industrials
+
+
+✅ #Task 2: Gender Pay Equality Assessment – Daikibo Industrials
 Overview:
 Assessed internal salary data across Daikibo’s factories to measure and classify levels of gender pay equality using a standardized “Equality Score” algorithm provided by the Forensic Tech team.
 
